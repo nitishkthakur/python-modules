@@ -1,13 +1,13 @@
 [app1]
-filename = "app1.py"
+filename = "app1_fastapi.py"
 name = "Chat Application 1"
 port = 8051
-description = "Basic chat app with blue theme"
+description = "FastAPI chat app with blue theme"
 color = "primary"
 
 [app2]
-filename = "app2.py"
+filename = "app2_fastapi.py"
 name = "Chat Application 2"
 port = 8052
-description = "Basic chat app with green theme"
+description = "FastAPI chat app with green theme"
 color = "success"
